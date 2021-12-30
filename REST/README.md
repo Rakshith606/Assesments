@@ -77,7 +77,7 @@ Based on aboved mentioned URL's
 
 | Role  | Authorized |
 |  -------------  | -------------       |
-| Guest  | ![](https://img.icons8.com/material-sharp/32/000000/cancel--v1.png)|
+| Guest  | ![](https://img.icons8.com/ios-filled/43/ffffff/cancel.png)|
 | Admin  | ![](https://img.icons8.com/fluent/32/000000/checked-2.png)|
 
 ### Sample Payload
@@ -113,7 +113,7 @@ Returns
 
 | Role  | Authorized |
 |  -------------  | -------------       |
-| Guest  | ![](https://img.icons8.com/material-sharp/32/000000/cancel--v1.png)|
+| Guest  | ![](https://img.icons8.com/ios-filled/43/ffffff/cancel.png)|
 | Admin  | ![](https://img.icons8.com/fluent/32/000000/checked-2.png)|
 
 ### Sample Payload
@@ -151,7 +151,7 @@ Returns
 
 | Role  | Authorized |
 |  -------------  | -------------       |
-| Guest  | ![](https://img.icons8.com/material-sharp/32/000000/cancel--v1.png)|
+| Guest  | ![](https://img.icons8.com/ios-filled/43/ffffff/cancel.png)|
 | Admin  | ![](https://img.icons8.com/fluent/32/000000/checked-2.png)|
 
 Returns
