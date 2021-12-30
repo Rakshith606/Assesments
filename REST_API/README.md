@@ -10,7 +10,37 @@ The REST Api is built with Dropwizard.
 
 ## 1. Directory Structure
 <a name="dir"></a>
-![](C:\Users\raksh\Desktop\tree.png)
+<pre>
+├───src
+    ├───main
+    │   ├───java
+    │   │   └───com
+    │   │       └───api
+    │   │           │   RestApi.java
+    │   │           │
+    │   │           ├───Authentication
+    │   │           │       AuthenticateUser.java
+    │   │           │
+    │   │           ├───Authorization
+    │   │           │       AuthorizeUser.java
+    │   │           │
+    │   │           ├───Core
+    │   │           │       DataHandler.java
+    │   │           │       EndpointHandler.java
+    │   │           │       HandleRequest.java
+    │   │           │       ProcessData.java
+    │   │           │       Router.java
+    │   │           │
+    │   │           └───Views
+    │   │                   Article.java
+    │   │                   User.java
+    │   │
+    │   └───resources
+    │           config.yml
+    │
+    └───test
+        └───java
+</pre>
 
 <div style="page-break-after: always;"></div>
 

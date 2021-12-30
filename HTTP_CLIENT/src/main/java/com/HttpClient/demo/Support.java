@@ -1,4 +1,4 @@
-package com.ApiCall.demo;
+package com.HttpClient.demo;
 
 public class Support {
     String url;

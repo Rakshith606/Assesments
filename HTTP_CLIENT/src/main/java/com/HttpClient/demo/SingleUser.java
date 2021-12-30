@@ -1,4 +1,4 @@
-package com.ApiCall.demo;
+package com.HttpClient.demo;
 
 public class SingleUser {
     Data data;

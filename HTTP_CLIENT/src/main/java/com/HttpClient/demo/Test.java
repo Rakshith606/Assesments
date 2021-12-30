@@ -1,11 +1,10 @@
-package com.ApiCall.demo;
+package com.HttpClient.demo;
 import feign.Feign;
 import feign.gson.GsonDecoder;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import java.io.File;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.*;
 
 

@@ -1,8 +1,7 @@
-package com.ApiCall.demo;
+package com.HttpClient.demo;
 import feign.Param;
 import feign.RequestLine;
 import feign.Headers;
-import java.util.*;
 
 public interface User{
     @RequestLine("GET /api/users/{id}")
